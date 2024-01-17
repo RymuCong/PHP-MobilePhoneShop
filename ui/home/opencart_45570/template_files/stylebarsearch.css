@@ -1,0 +1,47 @@
+.searchbar {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.searchTermhaha {
+  width: 200px;
+  border: 3px solid black !important;
+  border-right: none;
+  padding: 5px;
+  height: 40px !important;
+  border-radius: 15px 0 0 15px !important; 
+  outline: none;
+  color: #9DBFAF;
+  font-size: 20px !important;
+}
+
+.searchTermhaha:focus{
+  color: black;
+}
+
+.searchButtonhi {
+  width: 8%;
+  float: right;
+  height: 54px;
+  border: 1px solid orange;
+  border-left: none;
+  background: black
+    ;
+  text-align: center;
+  color: orange
+    ;
+  border-radius: 0 15px 15px 0;
+  cursor: pointer;
+  font-size: 26px !important;
+  /* top: 47% !important; */
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrapsearch{
+  width: 60%;
+  position: absolute;
+  top: 49% !important;
+  left: 59%;
+  transform: translate(-50%, -50%);
+}

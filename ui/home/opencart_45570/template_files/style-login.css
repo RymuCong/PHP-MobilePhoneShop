@@ -1,0 +1,179 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCFPrEHJA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCMPrEHJA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCHPrEHJA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrEHJA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+.outer-login {
+    font-family: "Raleway", sans-serif;
+    background-color: #e7e7e7;
+  }
+  
+  .wrapper-login {
+    width: 800px;
+    height: 600px;
+    position: relative;
+    margin: 3% auto;
+    box-shadow: 2px 18px 70px 0px #9D9D9D;
+    overflow: hidden;
+  }
+  
+  .login-text {
+    width: 800px;
+    height: 550px;
+    background: linear-gradient(to left, #efbe5d, #de67a3);
+    position: absolute;
+    top: -300px;
+    box-sizing: border-box;
+    padding: 6%;
+    transition: all 0.5s ease-in-out;
+    z-index: 2;
+  }
+  
+  .text3 {
+    margin-left: 20px;
+    color: #fff;
+    display: none;
+    transition: all 0.5s ease-in-out;
+    transition-delay: 0.3s;
+  }
+  .text3 a, .text3 a:visited {
+    font-size: 36px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+  }
+  .text3 .hr2 {
+    width: 10%;
+    float: left;
+    background-color: #fff;
+    font-size: 16px;
+    height: 2px;
+    margin-top: 15px;
+  }
+  .text3 input {
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+    border-radius: 2px;
+    border: none;
+    background-color: #444;
+    opacity: 0.6;
+    outline: none;
+    color: #fff;
+    padding-left: 10px;
+  }
+  .text3 input[type=text] {
+    margin-top: 40px;
+  }
+  .text3 button {
+    margin-top: 60px;
+    height: 40px;
+    width: 140px;
+    outline: none;
+  }
+  .text3 .login-btn {
+    background: #fff;
+    border: none;
+    border-radius: 2px;
+    color: #696a86;
+  }
+  .text3 .signup-btn {
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 2px;
+    color: #fff;
+    margin-left: 30px;
+  }
+  
+  .cta {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: #696a86;
+    border: 2px solid #fff;
+    position: absolute;
+    bottom: -30px;
+    left: 370px;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    z-index: 11;
+  }
+  
+  .call-text {
+    background-color: #fff;
+    width: 800px;
+    height: 450px;
+    position: absolute;
+    bottom: 0;
+    padding: 10%;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  .call-text h1 {
+    font-size: 42px;
+    margin-top: 10%;
+    color: #696a86;
+    margin-bottom: 30px;
+  }
+  .call-text h1 span {
+    color: #333;
+    font-weight: bolder;
+  }
+  .call-text .register-login {
+    font-size: 16px;
+    padding: 10px;
+    /* width: 180px; */
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(to left, #ab68ca, #de67a3);
+    color: #fff;
+    font-weight: bolder;
+    /* margin-top: 50px; */
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .show-hide {
+    display: inline;
+  }
+  
+  .expand {
+    transform: translateY(300px);
+  }

@@ -1,0 +1,34 @@
+/* body {
+    width: 550px;
+    font-family: arial;
+} */
+
+.row-item-rating ul {
+    margin: 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+.row-item-rating li.star {
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+    color: #9E9E9E;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.row-item-rating li.star.selected {
+    color: #ff6e00;
+}
+
+.review-note-rating {
+    font-size: 16px;
+    color: #999;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row-item-rating {
+    margin-bottom: 20px;
+    border-bottom: #F0F0F0 1px solid;
+}

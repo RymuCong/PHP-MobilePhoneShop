@@ -1,0 +1,49 @@
+.feedback {
+width: 50%;
+display: inline;
+}
+input[type='text']{
+    display: inline !important;
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.txtarea {
+    margin-left: 10px;
+    width: 82.5%;
+    border-radius: 4px;
+    margin-top: 15px;
+    height: 80px;
+}
+#input-submit {
+    color: white; 
+    background: #e74c3c;
+    cursor: pointer;
+    border:0; outline:0;
+    padding: 1em;
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 100px;
+    border-radius: 5px;
+ }
+.searchButtonhi{
+    margin-top: 14px !important;
+    border: 1px solid orange;
+    border-top: 2px solid orange !important;
+    border-bottom: 2px solid orange !important;
+    border-left: none;
+    padding-left: none !important;
+    height: 55px !important;
+    width: 60px !important;
+}
+.wrapsearch{
+    width: 75% !important;
+    position: absolute;
+    top: 44% !important;
+    left: 66%;
+    transform: translate(-50%, -50%);
+  }
+
+.searchTermhaha{
+    border: 3px solid black !important;
+}
