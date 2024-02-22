@@ -21,7 +21,7 @@
 <p style="margin-left:2%;font-size: 15px;"">+ Họ tên.
     <br>+ Số điện thoại. <br>+ Email.</p>
 <p style="font-size: 15px;"><strong>Bước 4:</strong> Sau&nbsp; khi đã nhập đầy đủ thông tin, quý khách click “Xác nhận thông tin” để hoàn tất đặt hàng</p>
-<p style="font-size: 15px;"><strong>Bước 5:&nbsp;</strong>Sau khi nhận đơn hàng của người mua, Group2.com.vn sẽ liên lạc với khách hàng qua thông tin số điện quý khách hàng cung cấp từ số điện thoại 0835792003 để xác thực thông tin đơn hàng.</p>
+<p style="font-size: 15px;"><strong>Bước 5:&nbsp;</strong>Sau khi nhận đơn hàng của người mua, Group2.com.vn sẽ liên lạc với khách hàng qua thông tin số điện quý khách hàng cung cấp từ số điện thoại để xác thực thông tin đơn hàng.</p>
 <p style="font-size: 15px;"><strong>Bước 6:</strong>&nbsp;Group2.com.vn giao hàng tận nhà đến cho khách hàng.</p>
 <p style="font-size: 15px;"><strong><u>Dành cho bên bán hàng là Group2.com.vn</u></strong></p>
 <p style="font-size: 15px;">- Chuẩn bị sản xuất nội dung gồm: hình ảnh sản phẩm chụp thực tế hoặc hình ảnh do hãng sản xuất cung cấp, bài viết giới thiệu, thông tin cấu hình sản phẩm.</p>

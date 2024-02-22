@@ -29,7 +29,7 @@ Khi cần thiết, chúng tôi có thể sử dụng những thông tin này đ�
 <li style="margin-left: 25px; font-size:15px"><img src="/images/catalog/icons/icon-ticked.png" alt="Ticked"> Công Ty Cổ Phần Bán Lẻ SmartPhone </li>
 <li style="margin-left: 25px; font-size:15px"><img src="/images/catalog/icons/icon-ticked.png" alt="Ticked"> Địa chỉ đăng ký kinh doanh: 128A, Hồ Tùng Mậu, Mai Dịch, Hà Nội</li>
 <li style="margin-left: 25px; font-size:15px"><img src="/images/catalog/icons/icon-ticked.png" alt="Ticked"> Văn phòng: 128A, Hồ Tùng Mậu, Mai Dịch, Hà Nội</li>
-<li style="margin-left: 25px; font-size:15px"><img src="/images/catalog/icons/icon-ticked.png" alt="Ticked"> Điện thoại văn phòng: 0835792003</li>
+<li style="margin-left: 25px; font-size:15px"><img src="/images/catalog/icons/icon-ticked.png" alt="Ticked"> Điện thoại văn phòng: </li>
 </ul>
 </div>
 <div class="para-five">
